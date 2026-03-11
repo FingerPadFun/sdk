@@ -1,0 +1,31 @@
+body{
+font-family: Arial, sans-serif;
+background:#0d0d0d;
+color:white;
+text-align:center;
+padding:40px;
+}
+
+textarea{
+width:80%;
+height:200px;
+margin-top:20px;
+padding:10px;
+font-size:16px;
+background:#111;
+color:white;
+border:1px solid #333;
+}
+
+button{
+margin:10px;
+padding:10px 20px;
+background:#4CAF50;
+border:none;
+color:white;
+cursor:pointer;
+}
+
+button:hover{
+background:#45a049;
+}
